@@ -58,7 +58,7 @@ Two datasets are used:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/crop-yield-loss-predictor.git
+git clone https://github.com/ANJALI7203/crop-yield-loss-predictor.git
 cd crop-yield-loss-predictor
 ```
 
