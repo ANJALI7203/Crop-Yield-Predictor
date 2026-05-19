@@ -87,15 +87,3 @@ crop-yield-loss-predictor/
 ├── requirements.txt                            # Dependencies
 └── README.md
 ```
-
----
-
-## 🌍 Context
-
-Odisha is one of India's most climate-vulnerable states. Events like **Cyclone Fani (2019)** and recurring floods in the Mahanadi delta have caused massive crop losses. This project directly addresses that problem using data-driven forecasting.
-
----
-
-## 👥 Group 1 — Project Team
-
-> B.Tech Project | Agricultural Yield Loss Prediction using ML
